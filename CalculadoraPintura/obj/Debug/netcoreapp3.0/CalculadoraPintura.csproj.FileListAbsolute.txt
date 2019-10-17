@@ -1,0 +1,11 @@
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\bin\Debug\netcoreapp3.0\CalculadoraPintura.exe
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\bin\Debug\netcoreapp3.0\CalculadoraPintura.deps.json
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\bin\Debug\netcoreapp3.0\CalculadoraPintura.runtimeconfig.json
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\bin\Debug\netcoreapp3.0\CalculadoraPintura.runtimeconfig.dev.json
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\bin\Debug\netcoreapp3.0\CalculadoraPintura.dll
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\bin\Debug\netcoreapp3.0\CalculadoraPintura.pdb
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\obj\Debug\netcoreapp3.0\CalculadoraPintura.csprojAssemblyReference.cache
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\obj\Debug\netcoreapp3.0\CalculadoraPintura.AssemblyInfoInputs.cache
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\obj\Debug\netcoreapp3.0\CalculadoraPintura.AssemblyInfo.cs
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\obj\Debug\netcoreapp3.0\CalculadoraPintura.dll
+C:\Users\rafas\Documents\teste\CalculadoraPintura\CalculadoraPintura\obj\Debug\netcoreapp3.0\CalculadoraPintura.pdb
